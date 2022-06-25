@@ -1,0 +1,17 @@
+[
+  {
+    "url": "www.google.com",
+    "empresa": "google",
+    "directorio": "google/prueba"
+  },
+  {
+    "url": "www.facebook.com",
+    "empresa": "facebook",
+    "directorio": "facebook/prueba"
+  },
+  {
+    "url": "Santi",
+    "empresa": "Chain",
+    "directorio": "chain/prueba"
+  }
+]
